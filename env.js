@@ -1,2 +1,2 @@
-// Arquivo gerado automaticamente em Fri Jun 20 07:59:27     2025
-window.BACKEND_URL = 'https://unemployment-reuters-essentially-potentially.trycloudflare.com';
+// Arquivo gerado automaticamente em Mon Jun 23 08:04:05     2025
+window.BACKEND_URL = 'https://jewellery-itunes-simple-wanted.trycloudflare.com';
