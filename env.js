@@ -1,2 +1,2 @@
-// Arquivo gerado automaticamente em Thu Jun 26 07:59:04     2025
-window.BACKEND_URL = 'https://majority-monitored-committees-providers.trycloudflare.com';
+// Arquivo gerado automaticamente em Fri Jun 27 08:00:25     2025
+window.BACKEND_URL = 'https://highlight-twenty-respondent-subjective.trycloudflare.com';
