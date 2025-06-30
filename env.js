@@ -1,2 +1,2 @@
-// Arquivo gerado automaticamente em Mon Jun 30 08:49:39     2025
-window.BACKEND_URL = 'https://analytical-cst-magnificent-beverly.trycloudflare.com';
+// Arquivo gerado automaticamente em Mon Jun 30 15:18:34     2025
+window.BACKEND_URL = 'https://districts-instances-cannon-colours.trycloudflare.com';
