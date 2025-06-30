@@ -1,2 +1,2 @@
-// Arquivo gerado automaticamente em Fri Jun 27 08:00:25     2025
-window.BACKEND_URL = 'https://highlight-twenty-respondent-subjective.trycloudflare.com';
+// Arquivo gerado automaticamente em Mon Jun 30 08:49:39     2025
+window.BACKEND_URL = 'https://analytical-cst-magnificent-beverly.trycloudflare.com';
