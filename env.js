@@ -1,2 +1,2 @@
-// Arquivo gerado automaticamente em Thu Jul  3 07:45:41     2025
-window.BACKEND_URL = 'https://casa-conferences-babe-guitar.trycloudflare.com';
+// Arquivo gerado automaticamente em Fri Jul  4 08:10:28     2025
+window.BACKEND_URL = 'https://locking-reduced-crazy-british.trycloudflare.com';
