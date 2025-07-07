@@ -1,2 +1,2 @@
-// Arquivo gerado automaticamente em Mon Jul  7 08:02:11     2025
-window.BACKEND_URL = 'https://seen-cheese-checklist-contributor.trycloudflare.com';
+// Arquivo gerado automaticamente em Mon Jul  7 18:38:55     2025
+window.BACKEND_URL = 'https://allowing-harassment-clothes-guild.trycloudflare.com';
