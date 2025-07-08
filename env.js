@@ -1,2 +1,2 @@
-// Arquivo gerado automaticamente em Mon Jul  7 18:39:52     2025
-window.BACKEND_URL = 'https://habitat-nuke-singh-extraordinary.trycloudflare.com';
+// Arquivo gerado automaticamente em Tue Jul  8 07:38:25     2025
+window.BACKEND_URL = 'https://exactly-thermal-mongolia-blake.trycloudflare.com';
