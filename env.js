@@ -1,2 +1,3 @@
-// Arquivo gerado automaticamente em Tue Jul  8 07:47:05     2025
-window.BACKEND_URL = 'https://bizrate-proposal-could-municipal.trycloudflare.com';
+// Arquivo gerado manualmente em 2025-07-08
+window.BACKEND_URL = 'https://matches-spread-yr-invitation.trycloudflare.com';
+
