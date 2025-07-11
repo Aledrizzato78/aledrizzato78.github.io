@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-10 08:24:19
-window.BACKEND_URL = 'https://era-fan-advisor-improvements.trycloudflare.com'
+// Gerado automaticamente em 2025-07-11 08:20:55
+window.BACKEND_URL = 'https://half-heat-argue-pix.trycloudflare.com'
