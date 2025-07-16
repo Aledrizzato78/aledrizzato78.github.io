@@ -18,7 +18,7 @@
       background-size: cover;
       color: #fff;
       height: 100vh;
-      overflow: hidden;
+      overflow-y: auto;
     }
 
     header {
@@ -54,14 +54,70 @@
       background: #555;
     }
 
-    footer {
-      position: absolute;
-      bottom: 1rem;
+    /* Seção de projetos */
+    .projects {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: rgba(0, 0, 0, 0.6);
+      border-radius: 10px;
+    }
+    .projects h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+    .project-card {
+      display: flex;
+      flex-direction: column;
+      background: #1e1e1e;
+      border-radius: 10px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    .project-card img {
       width: 100%;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      object-fit: cover;
+    }
+    .project-card h3 {
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .project-card p {
+      margin-bottom: 0.5rem;
+      line-height: 1.4;
+    }
+    .project-card a {
+      align-self: flex-end;
+      text-decoration: none;
+      color: #007bff;
+      font-weight: bold;
+      margin-top: auto;
+    }
+
+    /* Legend above chat button */
+    .chatbot-label {
+      position: fixed;
+      bottom: 100px;
+      right: 30px;
+      background: rgba(0, 0, 0, 0.6);
+      color: #fff;
+      padding: 0.3rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.9rem;
+      z-index: 999;
+    }
+
+    footer {
       text-align: center;
       background: rgba(0, 0, 0, 0.4);
       padding: 0.5rem;
       font-size: 0.9rem;
+      position: relative;
+      bottom: 0;
+      width: 100%;
     }
 
     .chatbot-toggle {
@@ -71,7 +127,7 @@
       background: transparent;
       border: none;
       cursor: pointer;
-      z-index: 999;
+      z-index: 998;
     }
 
     .chatbot-toggle img {
@@ -91,7 +147,7 @@
       overflow: hidden;
       display: none;
       flex-direction: column;
-      z-index: 998;
+      z-index: 997;
     }
 
     .chatbot-header {
@@ -106,10 +162,6 @@
       width: 32px;
       height: 32px;
       border-radius: 50%;
-    }
-
-    .chatbot-header span {
-      font-weight: bold;
     }
 
     .chatbot-messages {
@@ -165,6 +217,21 @@
     </div>
   </header>
 
+  <!-- Seção de Projetos -->
+  <section class="projects">
+    <h2>Projetos Destacados</h2>
+    <div class="project-card">
+      <img src="ale.JPG" alt="PizzeriaApp - Tela de Pedidos" />
+      <h3>PizzeriaApp 🍕</h3>
+      <p>Sistema desktop leve para gestão de pedidos de pizzaria, desenvolvido em Python, Tkinter e SQLite. Gera pedidos em PDF via ReportLab.</p>
+      <p><strong>Tech:</strong> Python · Tkinter · SQLite · ReportLab · escpos-python</p>
+      <a href="https://github.com/Aledrizzato78/pizzaria_app" target="_blank">Ver no GitHub →</a>
+    </div>
+  </section>
+
+  <!-- Label do Chatbot -->
+  <div class="chatbot-label">Vamos conversar</div>
+
   <div class="chatbot-window" id="chatbot">
     <div class="chatbot-header">
       <img src="avatar-bot.png" alt="Bot" />
@@ -188,7 +255,6 @@
   <script src="env.js"></script>
   <script>
     const chat = document.getElementById("chatbot");
-    const toggle = document.querySelector(".chatbot-toggle");
     const messages = document.getElementById("chat-messages");
 
     function toggleChatbot() {
