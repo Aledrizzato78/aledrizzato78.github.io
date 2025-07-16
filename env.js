@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-15 11:25:09
-window.BACKEND_URL = 'https://theta-medical-byte-sox.trycloudflare.com'
+// Gerado automaticamente em 2025-07-16 08:00:08
+window.BACKEND_URL = 'https://baker-backed-womens-identity.trycloudflare.com'
