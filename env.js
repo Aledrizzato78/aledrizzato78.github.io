@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-18 07:57:12
-window.BACKEND_URL = 'https://butter-liberty-adjust-modeling.trycloudflare.com'
+// Gerado automaticamente em 2025-07-18 14:38:00
+window.BACKEND_URL = 'https://emerging-automotive-function-ext.trycloudflare.com'
