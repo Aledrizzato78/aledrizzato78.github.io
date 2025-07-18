@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-17 08:23:03
-window.BACKEND_URL = 'https://sensor-drums-bottles-og.trycloudflare.com'
+// Gerado automaticamente em 2025-07-18 07:57:12
+window.BACKEND_URL = 'https://butter-liberty-adjust-modeling.trycloudflare.com'
