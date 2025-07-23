@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-22 07:56:07
-window.BACKEND_URL = 'https://hip-carnival-hard-sep.trycloudflare.com'
+// Gerado automaticamente em 2025-07-23 07:56:19
+window.BACKEND_URL = 'https://toolbar-visit-plasma-rb.trycloudflare.com'
