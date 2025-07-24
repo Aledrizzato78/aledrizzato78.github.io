@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-23 07:56:19
-window.BACKEND_URL = 'https://toolbar-visit-plasma-rb.trycloudflare.com'
+// Gerado automaticamente em 2025-07-24 07:45:25
+window.BACKEND_URL = 'https://inkjet-deutsche-atomic-productive.trycloudflare.com'
