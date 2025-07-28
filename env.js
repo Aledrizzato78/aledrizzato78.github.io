@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-25 07:50:29
-window.BACKEND_URL = 'https://libraries-fans-submitted-afghanistan.trycloudflare.com'
+// Gerado automaticamente em 2025-07-28 07:56:47
+window.BACKEND_URL = 'https://suppose-concept-blow-carriers.trycloudflare.com'
