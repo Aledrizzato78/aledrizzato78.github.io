@@ -186,56 +186,79 @@
     font-size: .9rem;
   }
 
-  /* 🔽 Responsivo para mobile */
-  @media (max-width: 768px) {
-    header h1 { font-size: 1.8rem; }
-    header p { font-size: 1rem; }
-
-    .links {
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .links a {
-      width: 80%;
-      text-align: center;
-    }
-
-    .kpis {
-      position: static;
-      flex-direction: row;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: .5rem;
-      margin: 1rem 0;
-    }
-
-    .chatbot-window {
-      width: 95%;
-      right: 2.5%;
-      height: 350px;
-    }
-
-    .chatbot-toggle img {
-      width: 56px;
-      height: 56px;
-    }
-
-    .chatbot-label {
-      font-size: .8rem;
-      right: 20px;
-    }
-
-    .projetos img {
-      width: 100%;
-      max-width: 300px;
-      margin: 0.5rem 0;
-    }
-
-    footer {
-      font-size: 0.8rem;
-    }
+ @media (max-width: 768px) {
+  header {
+    padding: 1.5rem 1rem;
   }
+
+  header h1 {
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+  }
+
+  header p {
+    font-size: 1rem;
+    line-height: 1.4rem;
+  }
+
+  .links {
+    flex-direction: column;
+    align-items: center;
+    gap: .5rem;
+    margin-top: 1rem;
+  }
+
+  .links a {
+    width: 90%;
+    max-width: 280px;
+    text-align: center;
+  }
+
+  .kpis {
+    position: static;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin: 1rem 0;
+  }
+
+  .kpis div {
+    min-width: auto;
+    width: 90%;
+    max-width: 280px;
+    font-size: 0.95rem;
+    padding: .6rem .8rem;
+  }
+
+  .chatbot-window {
+    width: 95%;
+    right: 2.5%;
+    height: 350px;
+  }
+
+  .chatbot-toggle img {
+    width: 56px;
+    height: 56px;
+  }
+
+  .chatbot-label {
+    font-size: .8rem;
+    right: 20px;
+  }
+
+  .projetos img {
+    width: 100%;
+    max-width: 300px;
+    margin: 0.5rem 0;
+  }
+
+  footer {
+    font-size: 0.8rem;
+    padding: 1rem;
+  }
+}
+
 </style>
 
 </head>
