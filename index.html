@@ -274,9 +274,10 @@
   </header>
 
   <div class="kpis">
-    <div>Acessos ao site<br><strong>123</strong></div>
-    <div>Interações com o chat<br><strong>45</strong></div>
-  </div>
+  <div id="kpi-acessos">Acessos ao site<br><strong>...</strong></div>
+  <div id="kpi-chat">Interações com o chat<br><strong>...</strong></div>
+</div>
+
 
   <button class="chatbot-toggle" onclick="toggleChatbot()">
     <img src="avatar-bot.png" alt="Avatar Bot" />
@@ -323,5 +324,22 @@
       });
     }
   </script>
+  <script>
+  fetch(`${window.BACKEND_URL}/chat/`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ mensagem: "ping" })
+  })
+  .then(res => res.json())
+  .then(data => {
+    document.querySelector("#kpi-acessos strong").textContent = data.total_acessos;
+    document.querySelector("#kpi-chat strong").textContent = data.total_interacoes;
+  })
+  .catch(() => {
+    document.querySelector("#kpi-acessos strong").textContent = "erro";
+    document.querySelector("#kpi-chat strong").textContent = "erro";
+  });
+</script>
+
 </body>
 </html>
