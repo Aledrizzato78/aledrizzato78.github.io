@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-29 09:12:57
-window.BACKEND_URL = 'https://centres-glasgow-nl-become.trycloudflare.com'
+// Gerado automaticamente em 2025-07-29 09:17:02
+window.BACKEND_URL = 'https://erik-soma-xml-semi.trycloudflare.com'
