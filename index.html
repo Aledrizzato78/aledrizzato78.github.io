@@ -230,10 +230,17 @@
     </div>
   </header>
 
-  <div class="kpis">
-    <div>Acessos ao site<br><strong id="contador-acessos">...</strong></div>
-    <div>Interações com o chat<br><strong id="contador-chat">...</strong></div>
+ <div class="kpi-container">
+  <div class="kpi-card">
+    <p class="kpi-label">Acessos ao site</p>
+    <p id="acessos" class="kpi-value">0</p>
   </div>
+  <div class="kpi-card">
+    <p class="kpi-label">Interações com o chat</p>
+    <p id="interacoes" class="kpi-value">0</p>
+  </div>
+</div>
+
 
   <button class="chatbot-toggle" onclick="toggleChatbot()">
     <img src="avatar-bot.png" alt="Avatar Bot" />
