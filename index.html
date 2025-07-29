@@ -6,262 +6,219 @@
   <title>Alexandre Drummond Rizzato</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
   <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Roboto', sans-serif; }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Roboto', sans-serif;
+    }
 
-  body {
-    background: url('https://aledrizzato78.github.io/ale.JPG') no-repeat center center fixed;
-    background-size: cover;
-    color: #000;
-    min-height: 100vh;
-    overflow-y: auto;
-  }
+    body {
+      background: url('https://aledrizzato78.github.io/ale.JPG') no-repeat center center fixed;
+      background-size: cover;
+      color: #000;
+      min-height: 100vh;
+      overflow-y: auto;
+    }
 
-  header {
-    text-align: center;
-    padding: 2rem;
-    background: rgba(255, 255, 255, 0.7);
-  }
+    header {
+      text-align: center;
+      padding: 2rem;
+      background: rgba(255, 255, 255, 0.7);
+    }
 
-  header h1 { font-size: 2.5rem; }
-  header p { font-size: 1.2rem; margin-top: .5rem; }
+    header h1 { font-size: 2.5rem; }
+    header p { font-size: 1.2rem; margin-top: .5rem; }
 
-  .links {
-    margin-top: 1rem;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: .5rem;
-  }
+    .links {
+      margin-top: 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: .5rem;
+    }
 
-  .links a {
-    text-decoration: none;
-    color: #fff;
-    background: #333;
-    padding: .5rem 1rem;
-    border-radius: 8px;
-    transition: background .3s;
-  }
+    .links a {
+      text-decoration: none;
+      color: #fff;
+      background: #333;
+      padding: .5rem 1rem;
+      border-radius: 8px;
+      transition: background .3s;
+    }
 
-  .links a:hover { background: #555; }
+    .links a:hover { background: #555; }
 
-  .projetos {
-    max-width: 800px;
-    margin: 2rem auto;
-    background: rgba(255,255,255,0.85);
-    padding: 1rem;
-    border-radius: 10px;
-    text-align: center;
-  }
+    .kpis {
+      position: fixed;
+      top: 120px;
+      right: 30px;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      z-index: 995;
+    }
 
-  .projetos h2 { margin-bottom: 1rem; }
+    .kpis div {
+      background: rgba(0,0,0,0.7);
+      color: #fff;
+      padding: .8rem 1.2rem;
+      border-radius: 6px;
+      font-size: 1rem;
+      min-width: 140px;
+      text-align: center;
+    }
 
-  .projetos img {
-    width: 200px;
-    margin: 0 .5rem;
-    border-radius: 8px;
-    max-width: 100%;
-  }
+    .chatbot-toggle {
+      position: fixed;
+      bottom: 110px;
+      right: 30px;
+      background: transparent;
+      border: none;
+      cursor: pointer;
+      z-index: 998;
+    }
 
-  .kpis {
-    position: fixed;
-    top: 120px;
-    right: 30px;
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    z-index: 995;
-  }
+    .chatbot-toggle img {
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    }
 
-  .kpis div {
-    background: rgba(0,0,0,0.7);
-    color: #fff;
-    padding: .8rem 1.2rem;
-    border-radius: 6px;
-    font-size: 1rem;
-    min-width: 140px;
-    text-align: center;
-  }
+    .chatbot-label {
+      position: fixed;
+      bottom: 40px;
+      right: 30px;
+      background: rgba(0,0,0,0.6);
+      color: #fff;
+      padding: .3rem .6rem;
+      border-radius: 4px;
+      font-size: .9rem;
+      z-index: 999;
+    }
 
-  .chatbot-toggle {
-    position: fixed;
-    bottom: 110px;
-    right: 30px;
-    background: transparent;
-    border: none;
-    cursor: pointer;
-    z-index: 998;
-  }
+    .chatbot-window {
+      position: fixed;
+      bottom: 180px;
+      right: 30px;
+      width: 400px;
+      height: 400px;
+      background: #1e1e1e;
+      border-radius: 10px;
+      display: none;
+      flex-direction: column;
+      z-index: 997;
+    }
 
-  .chatbot-toggle img {
-    width: 64px;
-    height: 64px;
-    border-radius: 50%;
-    box-shadow: 0 0 8px rgba(0,0,0,0.3);
-  }
+    .chatbot-header {
+      background: #007bff;
+      padding: 1rem;
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
 
-  .chatbot-label {
-    position: fixed;
-    bottom: 40px;
-    right: 30px;
-    background: rgba(0,0,0,0.6);
-    color: #fff;
-    padding: .3rem .6rem;
-    border-radius: 4px;
-    font-size: .9rem;
-    z-index: 999;
-  }
+    .chatbot-header img {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+    }
 
-  .chatbot-window {
-    position: fixed;
-    bottom: 180px;
-    right: 30px;
-    width: 400px;
-    height: 400px;
-    background: #1e1e1e;
-    border-radius: 10px;
-    display: none;
-    flex-direction: column;
-    z-index: 997;
-  }
+    .chatbot-messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: .5rem;
+      white-space: pre-line;
+      color: #fff;
+    }
 
-  .chatbot-header {
-    background: #007bff;
-    padding: 1rem;
-    display: flex;
-    align-items: center;
-    gap: .5rem;
-  }
+    .chatbot-input {
+      display: flex;
+      border-top: 1px solid #333;
+    }
 
-  .chatbot-header img {
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-  }
+    .chatbot-input input {
+      flex: 1;
+      padding: .8rem;
+      border: none;
+      outline: none;
+      background: #2e2e2e;
+      color: #fff;
+    }
 
-  .chatbot-messages {
-    flex: 1;
-    overflow-y: auto;
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-    gap: .5rem;
-    white-space: pre-line;
-    color: #fff;
-  }
+    .chatbot-input button {
+      background: #007bff;
+      border: none;
+      color: #fff;
+      padding: 0 1rem;
+      cursor: pointer;
+    }
 
-  .chatbot-input {
-    display: flex;
-    border-top: 1px solid #333;
-  }
+    .user-message, .bot-message {
+      background: #333;
+      padding: .5rem;
+      border-radius: 6px;
+    }
 
-  .chatbot-input input {
-    flex: 1;
-    padding: .8rem;
-    border: none;
-    outline: none;
-    background: #2e2e2e;
-    color: #fff;
-  }
+    .bot-message { background: #444; }
 
-  .chatbot-input button {
-    background: #007bff;
-    border: none;
-    color: #fff;
-    padding: 0 1rem;
-    cursor: pointer;
-  }
+    footer {
+      text-align: center;
+      background: rgba(255,255,255,0.6);
+      padding: .5rem;
+      font-size: .9rem;
+    }
 
-  .user-message, .bot-message {
-    background: #333;
-    padding: .5rem;
-    border-radius: 6px;
-  }
+    @media (max-width: 768px) {
+      header h1 { font-size: 1.8rem; }
+      header p { font-size: 1rem; }
 
-  .bot-message { background: #444; }
+      .links {
+        flex-direction: column;
+        align-items: center;
+      }
 
-  footer {
-    text-align: center;
-    background: rgba(255,255,255,0.6);
-    padding: .5rem;
-    font-size: .9rem;
-  }
+      .links a {
+        width: 80%;
+        text-align: center;
+      }
 
- @media (max-width: 768px) {
-  header {
-    padding: 1.5rem 1rem;
-  }
+      .kpis {
+        position: static;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: .5rem;
+        margin: 1rem 0;
+      }
 
-  header h1 {
-    font-size: 1.8rem;
-    line-height: 2.2rem;
-  }
+      .chatbot-window {
+        width: 95%;
+        right: 2.5%;
+        height: 350px;
+      }
 
-  header p {
-    font-size: 1rem;
-    line-height: 1.4rem;
-  }
+      .chatbot-toggle img {
+        width: 56px;
+        height: 56px;
+      }
 
-  .links {
-    flex-direction: column;
-    align-items: center;
-    gap: .5rem;
-    margin-top: 1rem;
-  }
+      .chatbot-label {
+        font-size: .8rem;
+        right: 20px;
+      }
 
-  .links a {
-    width: 90%;
-    max-width: 280px;
-    text-align: center;
-  }
-
-  .kpis {
-    position: static;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 0.5rem;
-    margin: 1rem 0;
-  }
-
-  .kpis div {
-    min-width: auto;
-    width: 90%;
-    max-width: 280px;
-    font-size: 0.95rem;
-    padding: .6rem .8rem;
-  }
-
-  .chatbot-window {
-    width: 95%;
-    right: 2.5%;
-    height: 350px;
-  }
-
-  .chatbot-toggle img {
-    width: 56px;
-    height: 56px;
-  }
-
-  .chatbot-label {
-    font-size: .8rem;
-    right: 20px;
-  }
-
-  .projetos img {
-    width: 100%;
-    max-width: 300px;
-    margin: 0.5rem 0;
-  }
-
-  footer {
-    font-size: 0.8rem;
-    padding: 1rem;
-  }
-}
-
-</style>
-
+      footer {
+        font-size: 0.8rem;
+      }
+    }
+  </style>
 </head>
+
 <body>
   <header>
     <h1>Alexandre Drummond Rizzato</h1>
@@ -274,15 +231,15 @@
   </header>
 
   <div class="kpis">
-  <div id="kpi-acessos">Acessos ao site<br><strong>...</strong></div>
-  <div id="kpi-chat">Interações com o chat<br><strong>...</strong></div>
-</div>
-
+    <div>Acessos ao site<br><strong id="contador-acessos">...</strong></div>
+    <div>Interações com o chat<br><strong id="contador-chat">...</strong></div>
+  </div>
 
   <button class="chatbot-toggle" onclick="toggleChatbot()">
     <img src="avatar-bot.png" alt="Avatar Bot" />
   </button>
   <div class="chatbot-label">Vamos conversar</div>
+
   <div class="chatbot-window" id="chatbot">
     <div class="chatbot-header">
       <img src="avatar-bot.png" alt="Bot" />
@@ -295,51 +252,52 @@
     </div>
   </div>
 
-  <footer>
-    Contato: aledrizzato@gmail.com
-  </footer>
+  <footer>Contato: aledrizzato@gmail.com</footer>
+
   <script src="env.js"></script>
   <script>
     const chat = document.getElementById("chatbot");
     const messages = document.getElementById("chat-messages");
+
     function toggleChatbot() {
       chat.style.display = chat.style.display === "flex" ? "none" : "flex";
     }
+
     function enviarMensagem() {
       const input = document.getElementById("user-input");
-      const texto = input.value.trim(); if (!texto) return;
+      const texto = input.value.trim();
+      if (!texto) return;
       messages.innerHTML += `<div class='user-message'>Você: ${texto}</div>`;
       input.value = "";
       fetch(`${window.BACKEND_URL}/chat/`, {
-        method: "POST", headers: { "Content-Type": "application/json" },
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ mensagem: texto })
       })
-      .then(res => res.json())
-      .then(data => {
-        messages.innerHTML += `<div class='bot-message'>Bot: ${data.resposta}</div>`;
-        messages.scrollTop = messages.scrollHeight;
-      })
-      .catch(() => {
-        messages.innerHTML += `<div class='bot-message'>Erro: não consegui conectar 😢</div>`;
-      });
+        .then(res => res.json())
+        .then(data => {
+          messages.innerHTML += `<div class='bot-message'>Bot: ${data.resposta}</div>`;
+          messages.scrollTop = messages.scrollHeight;
+        })
+        .catch(() => {
+          messages.innerHTML += `<div class='bot-message'>Erro: não consegui conectar 😢</div>`;
+        });
     }
-  </script>
-  <script>
-  fetch(`${window.BACKEND_URL}/chat/`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ mensagem: "ping" })
-  })
-  .then(res => res.json())
-  .then(data => {
-    document.querySelector("#kpi-acessos strong").textContent = data.total_acessos;
-    document.querySelector("#kpi-chat strong").textContent = data.total_interacoes;
-  })
-  .catch(() => {
-    document.querySelector("#kpi-acessos strong").textContent = "erro";
-    document.querySelector("#kpi-chat strong").textContent = "erro";
-  });
-</script>
 
+    async function atualizarKPIs() {
+      try {
+        const resp = await fetch(`${window.BACKEND_URL}/api/metricas/`);
+        const data = await resp.json();
+        document.getElementById("contador-acessos").innerText = data.total_acessos ?? '0';
+        document.getElementById("contador-chat").innerText = data.total_interacoes ?? '0';
+      } catch (error) {
+        console.error("Erro ao buscar métricas:", error);
+        document.getElementById("contador-acessos").innerText = '...';
+        document.getElementById("contador-chat").innerText = '...';
+      }
+    }
+
+    atualizarKPIs();
+  </script>
 </body>
 </html>
