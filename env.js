@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-29 10:48:27
-window.BACKEND_URL = 'https://ballot-patrol-lt-committee.trycloudflare.com'
+// Gerado automaticamente em 2025-07-29 12:10:11
+window.BACKEND_URL = 'https://hop-inquiry-annually-.trycloudflare.com'
