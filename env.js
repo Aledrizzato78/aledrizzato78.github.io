@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-30 11:02:59
-window.BACKEND_URL = 'https://uncle-alpine-mandatory-walt.trycloudflare.com'
+// Gerado automaticamente em 2025-07-30 11:11:10
+window.BACKEND_URL = 'https://shades-certificate-occurring-reload.trycloudflare.com'
