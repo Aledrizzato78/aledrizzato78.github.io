@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-30 11:11:10
-window.BACKEND_URL = 'https://shades-certificate-occurring-reload.trycloudflare.com'
+// Gerado automaticamente em 2025-07-31 08:06:23
+window.BACKEND_URL = 'https://unions-nutten-main-lu.trycloudflare.com'
