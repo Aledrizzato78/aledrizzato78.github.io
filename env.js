@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-07-31 15:48:21
-window.BACKEND_URL = 'https://tears-opened-additionally-intend.trycloudflare.com'
+// Gerado automaticamente em 2025-08-01 08:24:49
+window.BACKEND_URL = 'https://firewire-blocking-representation-klein.trycloudflare.com'
