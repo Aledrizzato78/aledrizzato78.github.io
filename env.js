@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-01 08:24:49
-window.BACKEND_URL = 'https://firewire-blocking-representation-klein.trycloudflare.com'
+// Gerado automaticamente em 2025-08-04 07:58:12
+window.BACKEND_URL = 'https://whenever-exclude-m-resulted.trycloudflare.com'
