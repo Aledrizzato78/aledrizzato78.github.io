@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-05 07:37:03
-window.BACKEND_URL = 'https://pretty-sms-make-gerald.trycloudflare.com'
+// Gerado automaticamente em 2025-08-06 07:51:36
+window.BACKEND_URL = 'https://ringtones-receptor-newport-currencies.trycloudflare.com'
