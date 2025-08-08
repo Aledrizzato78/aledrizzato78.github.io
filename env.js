@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-07 09:30:47
-window.BACKEND_URL = 'https://hosts-palm-upcoming-jar.trycloudflare.com'
+// Gerado automaticamente em 2025-08-08 08:01:10
+window.BACKEND_URL = 'https://collectible-proprietary-donated-jamie.trycloudflare.com'
