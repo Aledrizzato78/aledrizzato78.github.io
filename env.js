@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-11 08:21:49
-window.BACKEND_URL = 'https://situations-madrid-wishes-dir.trycloudflare.com'
+// Gerado automaticamente em 2025-08-12 08:13:44
+window.BACKEND_URL = 'https://arbor-guests-border-association.trycloudflare.com'
