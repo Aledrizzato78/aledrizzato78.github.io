@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-13 08:04:26
-window.BACKEND_URL = 'https://series-digit-improvements-hist.trycloudflare.com'
+// Gerado automaticamente em 2025-08-14 08:09:05
+window.BACKEND_URL = 'https://lib-renew-cleveland-joy.trycloudflare.com'
