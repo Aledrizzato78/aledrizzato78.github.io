@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-14 08:09:05
-window.BACKEND_URL = 'https://lib-renew-cleveland-joy.trycloudflare.com'
+// Gerado automaticamente em 2025-08-15 07:56:18
+window.BACKEND_URL = 'https://commit-innovation-template-arkansas.trycloudflare.com'
