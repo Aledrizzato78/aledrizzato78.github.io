@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-15 07:56:18
-window.BACKEND_URL = 'https://commit-innovation-template-arkansas.trycloudflare.com'
+// Gerado automaticamente em 2025-08-18 08:01:04
+window.BACKEND_URL = 'https://dad-cultures-excluded-convert.trycloudflare.com'
