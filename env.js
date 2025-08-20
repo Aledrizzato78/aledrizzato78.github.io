@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-19 07:45:40
-window.BACKEND_URL = 'https://cases-dpi-middle-universal.trycloudflare.com'
+// Gerado automaticamente em 2025-08-20 07:56:18
+window.BACKEND_URL = 'https://pavilion-fifth-needed-match.trycloudflare.com'
