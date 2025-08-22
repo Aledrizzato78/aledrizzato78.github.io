@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-21 08:57:16
-window.BACKEND_URL = 'https://smaller-patient-buffer-producers.trycloudflare.com'
+// Gerado automaticamente em 2025-08-22 07:58:38
+window.BACKEND_URL = 'https://regulatory-alloy-investor-things.trycloudflare.com'
