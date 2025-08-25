@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-08-22 07:58:38
-window.BACKEND_URL = 'https://regulatory-alloy-investor-things.trycloudflare.com'
+// Gerado automaticamente em 2025-08-25 07:59:53
+window.BACKEND_URL = 'https://scholar-partition-warnings-pentium.trycloudflare.com'
