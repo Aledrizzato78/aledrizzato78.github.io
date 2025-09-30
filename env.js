@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-09-30 07:58:08
-window.BACKEND_URL = 'https://coordinate-fairy-websites-calm.trycloudflare.com'
+// Gerado automaticamente em 2025-09-30 10:04:12
+window.BACKEND_URL = 'https://chocolate-careful-scotia-knee.trycloudflare.com'
