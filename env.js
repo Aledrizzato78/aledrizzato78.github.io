@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-09-30 10:04:12
-window.BACKEND_URL = 'https://chocolate-careful-scotia-knee.trycloudflare.com'
+// Gerado automaticamente em 2025-10-01 07:52:10
+window.BACKEND_URL = 'https://hour-porter-targeted-recreation.trycloudflare.com'
