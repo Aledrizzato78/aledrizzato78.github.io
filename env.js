@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-01 07:52:10
-window.BACKEND_URL = 'https://hour-porter-targeted-recreation.trycloudflare.com'
+// Gerado automaticamente em 2025-10-02 07:53:15
+window.BACKEND_URL = 'https://farms-wow-prevention-height.trycloudflare.com'
