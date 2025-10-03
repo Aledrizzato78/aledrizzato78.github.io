@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-02 07:53:15
-window.BACKEND_URL = 'https://farms-wow-prevention-height.trycloudflare.com'
+// Gerado automaticamente em 2025-10-03 08:20:30
+window.BACKEND_URL = 'https://multiple-resolved-assisted-filtering.trycloudflare.com'
