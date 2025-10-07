@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-06 07:53:21
-window.BACKEND_URL = 'https://expires-vote-cuts-concert.trycloudflare.com'
+// Gerado automaticamente em 2025-10-07 07:58:48
+window.BACKEND_URL = 'https://todd-methodology-paying-compression.trycloudflare.com'
