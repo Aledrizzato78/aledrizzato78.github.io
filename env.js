@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-09 08:00:02
-window.BACKEND_URL = 'https://necklace-claimed-seconds-henderson.trycloudflare.com'
+// Gerado automaticamente em 2025-10-10 08:23:27
+window.BACKEND_URL = 'https://databases-traffic-styles-singh.trycloudflare.com'
