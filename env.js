@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-21 09:34:06
-window.BACKEND_URL = 'https://unsubscribe-adjustments-logistics-announce.trycloudflare.com'
+// Gerado automaticamente em 2025-10-22 08:20:35
+window.BACKEND_URL = 'https://acids-pros-seems-hay.trycloudflare.com'
