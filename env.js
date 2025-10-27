@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-27 08:54:05
-window.BACKEND_URL = 'https://quebec-second-hammer-banner.trycloudflare.com'
+// Gerado automaticamente em 2025-10-27 09:03:58
+window.BACKEND_URL = 'https://link-avi-absorption-sugar.trycloudflare.com'
