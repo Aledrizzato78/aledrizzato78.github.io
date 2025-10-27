@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-27 09:14:29
-window.BACKEND_URL = 'https://reserved-consolidated-address-highlights.trycloudflare.com'
+// Gerado automaticamente em 2025-10-27 11:22:59
+window.BACKEND_URL = 'https://humanity-manor-dash-elimination.trycloudflare.com'
