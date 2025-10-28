@@ -1,2 +1,2 @@
-// Gerado automaticamente em 28/10/2025  8:56:10,26 
-window.BACKEND_URL = 'https://https://incentives-solely-logging-construct.trycloudflare.com' 
+// Gerado automaticamente em 2025-10-28 09:03:45
+window.BACKEND_URL = 'https://camps-hostel-property-mixing.trycloudflare.com'
