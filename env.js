@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-28 09:03:45
-window.BACKEND_URL = 'https://camps-hostel-property-mixing.trycloudflare.com'
+// Gerado automaticamente em 2025-10-28 11:17:55
+window.BACKEND_URL = 'https://resorts-telescope-pole-thinkpad.trycloudflare.com'
