@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-28 11:17:55
-window.BACKEND_URL = 'https://resorts-telescope-pole-thinkpad.trycloudflare.com'
+// Gerado automaticamente em 2025-10-29 06:29:25
+window.BACKEND_URL = 'https://contribute-logged-webpage-passing.trycloudflare.com'
