@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-10-30 06:55:27
-window.BACKEND_URL = 'https://arguments-controversy-race-books.trycloudflare.com'
+// Gerado automaticamente em 2025-10-31 08:53:56
+window.BACKEND_URL = 'https://star-advocate-machines-tub.trycloudflare.com'
