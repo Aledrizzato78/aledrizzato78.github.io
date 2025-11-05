@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-11-05 09:49:36
-window.BACKEND_URL = 'https://reference-supplement-boulevard-gage.trycloudflare.com'
+// Gerado automaticamente em 2025-11-05 13:43:10
+window.BACKEND_URL = 'https://surprised-control-factors-stanley.trycloudflare.com'
