@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-11-05 13:43:10
-window.BACKEND_URL = 'https://surprised-control-factors-stanley.trycloudflare.com'
+// Gerado automaticamente em 2025-11-06 08:35:26
+window.BACKEND_URL = 'https://academics-direction-rats-offering.trycloudflare.com'
