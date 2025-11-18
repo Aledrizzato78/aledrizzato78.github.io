@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-11-18 10:38:39
-window.BACKEND_URL = 'https://direction-course-been-cute.trycloudflare.com'
+// Gerado automaticamente em 2025-11-18 10:56:33
+window.BACKEND_URL = 'https://marvel-continue-richard-approaches.trycloudflare.com'
