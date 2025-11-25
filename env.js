@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-11-24 06:33:46
-window.BACKEND_URL = 'https://broader-rejected-left-prince.trycloudflare.com'
+// Gerado automaticamente em 2025-11-25 07:02:11
+window.BACKEND_URL = 'https://operator-missed-dosage-continues.trycloudflare.com'
