@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-11-25 07:02:11
-window.BACKEND_URL = 'https://operator-missed-dosage-continues.trycloudflare.com'
+// Gerado automaticamente em 2025-11-26 08:38:11
+window.BACKEND_URL = 'https://sterling-wesley-tourist-signs.trycloudflare.com'
