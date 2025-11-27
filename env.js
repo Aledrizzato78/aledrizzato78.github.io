@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-11-26 08:38:11
-window.BACKEND_URL = 'https://sterling-wesley-tourist-signs.trycloudflare.com'
+// Gerado automaticamente em 2025-11-27 08:14:11
+window.BACKEND_URL = 'https://slots-giants-luck-watched.trycloudflare.com'
