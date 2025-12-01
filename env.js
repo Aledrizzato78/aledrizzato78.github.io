@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-11-28 11:10:49
-window.BACKEND_URL = 'https://iii-controversial-finite-extends.trycloudflare.com'
+// Gerado automaticamente em 2025-12-01 09:00:39
+window.BACKEND_URL = 'https://time-remained-rep-remarks.trycloudflare.com'
