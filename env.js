@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-12-05 08:41:29
-window.BACKEND_URL = 'https://figured-forums-beth-liable.trycloudflare.com'
+// Gerado automaticamente em 2025-12-08 08:24:17
+window.BACKEND_URL = 'https://wal-hand-are-competent.trycloudflare.com'
