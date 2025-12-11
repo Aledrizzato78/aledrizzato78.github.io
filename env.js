@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-12-10 08:32:06
-window.BACKEND_URL = 'https://steven-livestock-proudly-institute.trycloudflare.com'
+// Gerado automaticamente em 2025-12-11 08:39:32
+window.BACKEND_URL = 'https://cliff-snowboard-heat-survey.trycloudflare.com'
