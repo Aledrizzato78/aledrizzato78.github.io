@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-12-15 06:12:30
-window.BACKEND_URL = 'https://delete-linux-maternity-deaths.trycloudflare.com'
+// Gerado automaticamente em 2025-12-16 06:37:22
+window.BACKEND_URL = 'https://relation-jean-lights-affiliates.trycloudflare.com'
