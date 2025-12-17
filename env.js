@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-12-16 06:37:22
-window.BACKEND_URL = 'https://relation-jean-lights-affiliates.trycloudflare.com'
+// Gerado automaticamente em 2025-12-17 08:12:49
+window.BACKEND_URL = 'https://heroes-object-villas-crm.trycloudflare.com'
