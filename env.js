@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-12-18 08:36:21
-window.BACKEND_URL = 'https://thru-returning-responsibility-halo.trycloudflare.com'
+// Gerado automaticamente em 2025-12-19 08:19:07
+window.BACKEND_URL = 'https://educators-loves-boat-employees.trycloudflare.com'
