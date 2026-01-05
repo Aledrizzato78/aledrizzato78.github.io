@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2025-12-19 08:19:07
-window.BACKEND_URL = 'https://educators-loves-boat-employees.trycloudflare.com'
+// Gerado automaticamente em 2026-01-05 06:50:28
+window.BACKEND_URL = 'https://carbon-pierce-despite-holidays.trycloudflare.com'
