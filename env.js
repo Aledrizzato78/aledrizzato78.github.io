@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-01-06 08:42:03
-window.BACKEND_URL = 'https://dogs-bringing-hats-alice.trycloudflare.com'
+// Gerado automaticamente em 2026-01-07 07:45:35
+window.BACKEND_URL = 'https://blowing-recipients-pepper-shall.trycloudflare.com'
