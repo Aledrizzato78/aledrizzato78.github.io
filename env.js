@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-01-07 07:45:35
-window.BACKEND_URL = 'https://blowing-recipients-pepper-shall.trycloudflare.com'
+// Gerado automaticamente em 2026-01-08 07:50:13
+window.BACKEND_URL = 'https://flex-deemed-felt-helmet.trycloudflare.com'
