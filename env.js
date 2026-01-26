@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-01-26 10:31:31
-window.BACKEND_URL = 'https://shadows-members-vocal-lead.trycloudflare.com'
+// Gerado automaticamente em 2026-01-26 10:34:30
+window.BACKEND_URL = 'https://tolerance-pest-testimonials-pas.trycloudflare.com'
