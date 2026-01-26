@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-01-26 10:15:47
-window.BACKEND_URL = 'https://technical-deaths-affected-democrat.trycloudflare.com'
+// Gerado automaticamente em 2026-01-26 10:26:55
+window.BACKEND_URL = 'https://engineer-its-runs-inclusion.trycloudflare.com'
