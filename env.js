@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-01-26 10:43:43
-window.BACKEND_URL = 'https://faculty-whatever-stopping-parade.trycloudflare.com'
+// Gerado automaticamente em 2026-01-27 09:13:32
+window.BACKEND_URL = 'https://checking-alt-elliott-diagnosis.trycloudflare.com'
