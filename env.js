@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-01-27 10:09:51
-window.BACKEND_URL = 'https://warning-auditor-vcr-deviation.trycloudflare.com'
+// Gerado automaticamente em 2026-01-28 07:47:31
+window.BACKEND_URL = 'https://reviewer-category-quad-transmit.trycloudflare.com'
