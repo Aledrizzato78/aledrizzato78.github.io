@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-02-10 08:52:54
-window.BACKEND_URL = 'https://guitar-shareware-developer-passport.trycloudflare.com'
+// Gerado automaticamente em 2026-02-11 09:03:40
+window.BACKEND_URL = 'https://monitored-sri-seeing-rna.trycloudflare.com'
