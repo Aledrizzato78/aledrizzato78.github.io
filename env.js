@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-02-19 09:14:38
-window.BACKEND_URL = 'https://loving-maps-sent-minimal.trycloudflare.com'
+// Gerado automaticamente em 2026-02-20 09:06:37
+window.BACKEND_URL = 'https://cameron-nathan-stamp-typically.trycloudflare.com'
