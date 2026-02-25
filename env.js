@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-02-24 09:00:41
-window.BACKEND_URL = 'https://philips-fails-licence-emissions.trycloudflare.com'
+// Gerado automaticamente em 2026-02-25 09:12:07
+window.BACKEND_URL = 'https://lawyers-vocational-dude-davidson.trycloudflare.com'
