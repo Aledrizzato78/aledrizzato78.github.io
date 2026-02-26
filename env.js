@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-02-25 09:12:07
-window.BACKEND_URL = 'https://lawyers-vocational-dude-davidson.trycloudflare.com'
+// Gerado automaticamente em 2026-02-26 08:59:00
+window.BACKEND_URL = 'https://investor-speaking-fitting-richardson.trycloudflare.com'
