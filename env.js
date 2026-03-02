@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-02-26 08:59:00
-window.BACKEND_URL = 'https://investor-speaking-fitting-richardson.trycloudflare.com'
+// Gerado automaticamente em 2026-03-02 09:03:12
+window.BACKEND_URL = 'https://journalist-stores-codes-caribbean.trycloudflare.com'
