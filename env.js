@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-03-09 08:14:37
-window.BACKEND_URL = 'https://pursue-clinics-myers-surge.trycloudflare.com'
+// Gerado automaticamente em 2026-03-10 08:03:33
+window.BACKEND_URL = 'https://logging-novelty-custody-plaintiff.trycloudflare.com'
