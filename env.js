@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-03-11 08:10:48
-window.BACKEND_URL = 'https://occur-flow-because-october.trycloudflare.com'
+// Gerado automaticamente em 2026-03-12 08:09:26
+window.BACKEND_URL = 'https://jews-indexed-excuse-rows.trycloudflare.com'
