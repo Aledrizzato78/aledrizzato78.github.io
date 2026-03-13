@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-03-12 08:09:26
-window.BACKEND_URL = 'https://jews-indexed-excuse-rows.trycloudflare.com'
+// Gerado automaticamente em 2026-03-13 08:19:47
+window.BACKEND_URL = 'https://sunrise-executed-bare-tail.trycloudflare.com'
