@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-03-17 08:50:04
-window.BACKEND_URL = 'https://glance-bradford-reuters-yukon.trycloudflare.com'
+// Gerado automaticamente em 2026-03-18 08:24:46
+window.BACKEND_URL = 'https://coaches-continuously-valuation-transparency.trycloudflare.com'
