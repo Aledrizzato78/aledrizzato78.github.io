@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-03-27 09:59:41
-window.BACKEND_URL = 'https://massachusetts-strongly-cooler-pvc.trycloudflare.com'
+// Gerado automaticamente em 2026-03-30 07:34:19
+window.BACKEND_URL = 'https://increase-rapidly-sitemap-calls.trycloudflare.com'
