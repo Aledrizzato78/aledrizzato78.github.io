@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-03-31 08:10:38
-window.BACKEND_URL = 'https://separation-trout-reduction-largest.trycloudflare.com'
+// Gerado automaticamente em 2026-03-31 08:17:45
+window.BACKEND_URL = 'https://cet-hugo-definitions-floors.trycloudflare.com'
