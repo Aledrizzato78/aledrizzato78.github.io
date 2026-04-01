@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-03-31 08:17:45
-window.BACKEND_URL = 'https://cet-hugo-definitions-floors.trycloudflare.com'
+// Gerado automaticamente em 2026-04-01 08:24:22
+window.BACKEND_URL = 'https://bingo-prior-mails-trust.trycloudflare.com'
