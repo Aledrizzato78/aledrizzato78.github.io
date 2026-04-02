@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-01 08:24:22
-window.BACKEND_URL = 'https://bingo-prior-mails-trust.trycloudflare.com'
+// Gerado automaticamente em 2026-04-02 08:15:23
+window.BACKEND_URL = 'https://ann-unknown-suggested-occurs.trycloudflare.com'
