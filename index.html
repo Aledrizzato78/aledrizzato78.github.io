@@ -1,321 +1,440 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Alexandre Drummond Rizzato</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Roboto', sans-serif;
-    }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alexandre Drummond Rizzato | Backend Kotlin Java Python</title>
 
-    body {
-      background: url('https://aledrizzato78.github.io/ale.JPG') no-repeat center center fixed;
-      background-size: cover;
-      color: #000;
-      min-height: 100vh;
-      overflow-y: auto;
-    }
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 
-    header {
-      text-align: center;
-      padding: 2rem;
-      background: rgba(255, 255, 255, 0.7);
-    }
+<style>
 
-    header h1 { font-size: 2.5rem; }
-    header p { font-size: 1.2rem; margin-top: .5rem; }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
 
-    .links {
-      margin-top: 1rem;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: .5rem;
-    }
+body {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: white;
+  overflow-x: hidden;
+}
 
-    .links a {
-      text-decoration: none;
-      color: #fff;
-      background: #333;
-      padding: .5rem 1rem;
-      border-radius: 8px;
-      transition: background .3s;
-    }
+header {
+  text-align: center;
+  padding: 60px 20px;
+}
 
-    .links a:hover { background: #555; }
+header h1 {
+  font-size: 3rem;
+}
 
-    .kpi-container {
-      display: flex;
-      flex-direction: row;
-      gap: 20px;
-      justify-content: center;
-      margin: 30px 0;
-      z-index: 995;
-    }
+header p {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  color: #ddd;
+}
 
-    .kpi-card {
-      background: rgba(0, 0, 0, 0.7);
-      color: white;
-      padding: 20px 25px;
-      border-radius: 12px;
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-      text-align: center;
-      min-width: 150px;
-    }
+.links {
+  margin-top: 20px;
+}
 
-    .kpi-card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 8px 25px rgba(76, 175, 80, 0.4);
-    }
+.links a {
+  text-decoration: none;
+  background: #007bff;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 8px;
+  margin: 5px;
+  display: inline-block;
+  transition: 0.3s;
+}
 
-    .kpi-label {
-      font-size: 16px;
-      font-weight: 500;
-      margin-bottom: 5px;
-    }
+.links a:hover {
+  background: #0056b3;
+}
 
-    .kpi-value {
-      font-size: 24px;
-      font-weight: bold;
-    }
+.section {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 30px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+}
 
-    .chatbot-toggle {
-      position: fixed;
-      bottom: 110px;
-      right: 30px;
-      background: transparent;
-      border: none;
-      cursor: pointer;
-      z-index: 998;
-    }
+.section h2 {
+  margin-bottom: 15px;
+}
 
-    .chatbot-toggle img {
-      width: 64px;
-      height: 64px;
-      border-radius: 50%;
-      box-shadow: 0 0 8px rgba(0,0,0,0.3);
-    }
+.stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
 
-    .chatbot-label {
-      position: fixed;
-      bottom: 40px;
-      right: 30px;
-      background: rgba(0,0,0,0.6);
-      color: #fff;
-      padding: .3rem .6rem;
-      border-radius: 4px;
-      font-size: .9rem;
-      z-index: 999;
-    }
+.card {
+  background: rgba(0,0,0,0.6);
+  padding: 10px 15px;
+  border-radius: 8px;
+}
 
-    .chatbot-window {
-      position: fixed;
-      bottom: 180px;
-      right: 30px;
-      width: 400px;
-      height: 400px;
-      background: #1e1e1e;
-      border-radius: 10px;
-      display: none;
-      flex-direction: column;
-      z-index: 997;
-    }
+.project {
+  background: rgba(0,0,0,0.6);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
 
-    .chatbot-header {
-      background: #007bff;
-      padding: 1rem;
-      display: flex;
-      align-items: center;
-      gap: .5rem;
-    }
+.kpi-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 30px;
+  flex-wrap: wrap;
+}
 
-    .chatbot-header img {
-      width: 32px;
-      height: 32px;
-      border-radius: 50%;
-    }
+.kpi-card {
+  background: rgba(0,0,0,0.7);
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  min-width: 180px;
+}
 
-    .chatbot-messages {
-      flex: 1;
-      overflow-y: auto;
-      padding: 1rem;
-      display: flex;
-      flex-direction: column;
-      gap: .5rem;
-      white-space: pre-line;
-      color: #fff;
-    }
+.fade {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: 0.7s;
+}
 
-    .chatbot-input {
-      display: flex;
-      border-top: 1px solid #333;
-    }
+.fade.show {
+  opacity: 1;
+  transform: translateY(0);
+}
 
-    .chatbot-input input {
-      flex: 1;
-      padding: .8rem;
-      border: none;
-      outline: none;
-      background: #2e2e2e;
-      color: #fff;
-    }
+/* CHATBOT */
 
-    .chatbot-input button {
-      background: #007bff;
-      border: none;
-      color: #fff;
-      padding: 0 1rem;
-      cursor: pointer;
-    }
+.chatbot-toggle {
+  position: fixed;
+  bottom: 110px;
+  right: 30px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
 
-    .user-message, .bot-message {
-      background: #333;
-      padding: .5rem;
-      border-radius: 6px;
-    }
+.chatbot-toggle img {
+  width: 70px;
+  border-radius: 50%;
+}
 
-    .bot-message { background: #444; }
+.chatbot-label {
+  position: fixed;
+  bottom: 40px;
+  right: 30px;
+  background: rgba(0,0,0,0.7);
+  padding: 5px 10px;
+  border-radius: 5px;
+}
 
-    footer {
-      text-align: center;
-      background: rgba(255,255,255,0.6);
-      padding: .5rem;
-      font-size: .9rem;
-    }
+.chatbot-window {
+  position: fixed;
+  bottom: 180px;
+  right: 30px;
+  width: 400px;
+  height: 450px;
+  background: #1e1e1e;
+  border-radius: 10px;
+  display: none;
+  flex-direction: column;
+}
 
-    @media (max-width: 768px) {
-      header h1 { font-size: 1.8rem; }
-      header p { font-size: 1rem; }
+.chatbot-header {
+  background: #007bff;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+}
 
-      .links {
-        flex-direction: column;
-        align-items: center;
-      }
+.chatbot-header img {
+  width: 30px;
+  border-radius: 50%;
+}
 
-      .links a {
-        width: 80%;
-        text-align: center;
-      }
+.chatbot-messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 10px;
+}
 
-      .kpi-container {
-        flex-direction: column;
-        align-items: center;
-      }
+.user-message, .bot-message {
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 6px;
+}
 
-      .chatbot-window {
-        width: 95%;
-        right: 2.5%;
-        height: 350px;
-      }
+.user-message {
+  background: #333;
+}
 
-      .chatbot-toggle img {
-        width: 56px;
-        height: 56px;
-      }
+.bot-message {
+  background: #555;
+}
 
-      .chatbot-label {
-        font-size: .8rem;
-        right: 20px;
-      }
+.chatbot-input {
+  display: flex;
+}
 
-      footer {
-        font-size: 0.8rem;
-      }
-    }
-  </style>
+.chatbot-input input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  background: #333;
+  color: white;
+}
+
+.chatbot-input button {
+  background: #007bff;
+  border: none;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+/* FOOTER */
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #ccc;
+}
+
+/* RESPONSIVO */
+
+@media(max-width:768px) {
+
+  header h1 {
+    font-size: 2rem;
+  }
+
+  .chatbot-window {
+    width: 95%;
+    right: 2%;
+  }
+
+}
+
+</style>
 </head>
 
 <body>
-  <header>
-    <h1>Alexandre Drummond Rizzato</h1>
-    <p>Desenvolvedor de software Java / Python</p>
-    <div class="links">
-      <a href="https://github.com/Aledrizzato78" target="_blank">GitHub</a>
-      <a href="https://www.linkedin.com/in/aledrizzato" target="_blank">LinkedIn</a>
-      <a href="https://wa.me/5511980506190" target="_blank">Fale comigo</a>
-    </div>
-  </header>
 
-  <div class="kpi-container">
-    <div class="kpi-card">
-      <p class="kpi-label">Acessos ao site</p>
-      <p id="contador-acessos" class="kpi-value">0</p>
-    </div>
-    <div class="kpi-card">
-      <p class="kpi-label">Interações com o chat</p>
-      <p id="contador-chat" class="kpi-value">0</p>
-    </div>
-  </div>
+<header class="fade">
 
-  <button class="chatbot-toggle" onclick="toggleChatbot()">
-    <img src="avatar-bot.png" alt="Avatar Bot" />
-  </button>
-  <div class="chatbot-label">Vamos conversar</div>
+<h1>Alexandre Drummond Rizzato</h1>
 
-  <div class="chatbot-window" id="chatbot">
-    <div class="chatbot-header">
-      <img src="avatar-bot.png" alt="Bot" />
-      <span>Assistente Virtual</span>
-    </div>
-    <div class="chatbot-messages" id="chat-messages"></div>
-    <div class="chatbot-input">
-      <input type="text" id="user-input" placeholder="Digite sua mensagem..." onkeydown="if(event.key === 'Enter'){enviarMensagem()}" />
-      <button onclick="enviarMensagem()">Enviar</button>
-    </div>
-  </div>
+<p>Desenvolvedor Backend Kotlin | Java | Python</p>
 
-  <footer>Contato: aledrizzato@gmail.com</footer>
+<div class="links">
+<a href="https://github.com/Aledrizzato78" target="_blank">GitHub</a>
+<a href="https://www.linkedin.com/in/aledrizzato" target="_blank">LinkedIn</a>
+<a href="https://wa.me/5511980506190" target="_blank">WhatsApp</a>
+</div>
 
-  <script src="env.js"></script>
-  <script>
-    const chat = document.getElementById("chatbot");
-    const messages = document.getElementById("chat-messages");
+</header>
 
-    function toggleChatbot() {
-      chat.style.display = chat.style.display === "flex" ? "none" : "flex";
+<section class="section fade">
+
+<h2>Sobre</h2>
+
+<p>
+Sou Desenvolvedor Backend com foco em Kotlin, Java e Python, atuando na construção de APIs REST, integrações de sistemas e soluções com inteligência artificial.
+</p>
+
+<br>
+
+<p>
+Trabalho com Spring Boot, Django, integrações com APIs externas, chatbot com IA (Gemini e Ollama), automação de processos e soluções que conectam sistemas e pessoas.
+</p>
+
+<br>
+
+<p>
+Meu foco é criar backends modernos, escaláveis e integrados com tecnologias atuais de mercado.
+</p>
+
+</section>
+
+<section class="section fade">
+
+<h2>Stack</h2>
+
+<div class="stack">
+<div class="card">Kotlin</div>
+<div class="card">Java</div>
+<div class="card">Python</div>
+<div class="card">Spring Boot</div>
+<div class="card">Django</div>
+<div class="card">APIs REST</div>
+<div class="card">Gemini</div>
+<div class="card">Ollama</div>
+<div class="card">Cloudflare Tunnel</div>
+<div class="card">Salesforce</div>
+<div class="card">WhatsApp API</div>
+</div>
+
+</section>
+
+<section class="section fade">
+
+<h2>Projetos</h2>
+
+<div class="project">
+<h3>Chatbot Inteligente com IA</h3>
+
+<p>
+Chatbot integrado com Django, Gemini, Ollama, Salesforce e WhatsApp.
+</p>
+
+<p>
+Backend com API REST conectado ao portfólio e métricas em tempo real.
+</p>
+</div>
+
+</section>
+
+<div class="kpi-container fade">
+
+<div class="kpi-card">
+<p>Acessos ao site</p>
+<h2 id="contador-acessos">0</h2>
+</div>
+
+<div class="kpi-card">
+<p>Interações com o chat</p>
+<h2 id="contador-chat">0</h2>
+</div>
+
+</div>
+
+<button class="chatbot-toggle" onclick="toggleChatbot()">
+<img src="avatar-bot.png">
+</button>
+
+<div class="chatbot-label">Vamos conversar</div>
+
+<div class="chatbot-window" id="chatbot">
+
+<div class="chatbot-header">
+<img src="avatar-bot.png">
+<span>Assistente Virtual</span>
+</div>
+
+<div class="chatbot-messages" id="chat-messages"></div>
+
+<div class="chatbot-input">
+<input type="text" id="user-input" placeholder="Digite sua mensagem..." onkeydown="if(event.key==='Enter'){enviarMensagem()}">
+<button onclick="enviarMensagem()">Enviar</button>
+</div>
+
+</div>
+
+<footer>
+Contato: aledrizzato@gmail.com
+</footer>
+
+<script src="env.js"></script>
+
+<script>
+
+/* ANIMAÇÃO SCROLL */
+
+const faders = document.querySelectorAll(".fade");
+
+window.addEventListener("scroll", () => {
+
+  faders.forEach(el => {
+
+    const pos = el.getBoundingClientRect().top;
+    const screen = window.innerHeight;
+
+    if(pos < screen - 100){
+      el.classList.add("show");
     }
 
-    function enviarMensagem() {
-      const input = document.getElementById("user-input");
-      const texto = input.value.trim();
-      if (!texto) return;
-      messages.innerHTML += `<div class='user-message'>Você: ${texto}</div>`;
-      input.value = "";
-      fetch(`${window.BACKEND_URL}/chat/`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ mensagem: texto })
-      })
-        .then(res => res.json())
-        .then(data => {
-          messages.innerHTML += `<div class='bot-message'>Bot: ${data.resposta}</div>`;
-          messages.scrollTop = messages.scrollHeight;
-        })
-        .catch(() => {
-          messages.innerHTML += `<div class='bot-message'>Erro: não consegui conectar 😢</div>`;
-        });
-    }
+  });
 
-    async function atualizarKPIs() {
-      try {
-        const resp = await fetch(`${window.BACKEND_URL}/api/metricas/`);
-        const data = await resp.json();
-        document.getElementById("contador-acessos").innerText = data.total_acessos ?? '0';
-        document.getElementById("contador-chat").innerText = data.total_interacoes ?? '0';
-      } catch (error) {
-        console.error("Erro ao buscar métricas:", error);
-        document.getElementById("contador-acessos").innerText = '...';
-        document.getElementById("contador-chat").innerText = '...';
-      }
-    }
+});
 
-    atualizarKPIs();
-  </script>
+/* CHATBOT */
+
+const chat = document.getElementById("chatbot");
+const messages = document.getElementById("chat-messages");
+
+function toggleChatbot() {
+  chat.style.display = chat.style.display === "flex" ? "none" : "flex";
+}
+
+function enviarMensagem() {
+
+  const input = document.getElementById("user-input");
+  const texto = input.value.trim();
+
+  if(!texto) return;
+
+  messages.innerHTML += `<div class='user-message'>Você: ${texto}</div>`;
+
+  input.value = "";
+
+  fetch(`${window.BACKEND_URL}/chat/`, {
+
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ mensagem: texto })
+
+  })
+  .then(res => res.json())
+  .then(data => {
+
+    messages.innerHTML += `<div class='bot-message'>Bot: ${data.resposta}</div>`;
+    messages.scrollTop = messages.scrollHeight;
+
+  })
+  .catch(() => {
+
+    messages.innerHTML += `<div class='bot-message'>Erro ao conectar com backend</div>`;
+
+  });
+
+}
+
+/* KPI */
+
+async function atualizarKPIs(){
+
+  try{
+
+    const resp = await fetch(`${window.BACKEND_URL}/api/metricas/`);
+    const data = await resp.json();
+
+    document.getElementById("contador-acessos").innerText = data.total_acessos ?? 0;
+    document.getElementById("contador-chat").innerText = data.total_interacoes ?? 0;
+
+  } catch(e){
+
+    document.getElementById("contador-acessos").innerText = "...";
+    document.getElementById("contador-chat").innerText = "...";
+
+  }
+
+}
+
+atualizarKPIs();
+
+</script>
+
 </body>
 </html>
