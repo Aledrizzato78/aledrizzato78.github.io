@@ -16,15 +16,15 @@
         }
 
         :root {
-            --bg-1: #0f2027;
-            --bg-2: #203a43;
-            --bg-3: #2c5364;
+            --bg-1: rgba(15, 32, 39, 0.90);
+            --bg-2: rgba(32, 58, 67, 0.84);
+            --bg-3: rgba(44, 83, 100, 0.82);
             --primary: #00e5ff;
-            --primary-dark: #00bcd4;
-            --text-soft: #cfd8dc;
-            --card: rgba(255, 255, 255, 0.08);
-            --card-border: rgba(255, 255, 255, 0.06);
-            --shadow: 0 10px 26px rgba(0, 0, 0, 0.22);
+            --primary-dark: #00bfd8;
+            --text-soft: #d4dde1;
+            --card: rgba(255, 255, 255, 0.10);
+            --card-border: rgba(255, 255, 255, 0.08);
+            --shadow: 0 12px 30px rgba(0, 0, 0, 0.24);
             --chat-bg: #171717;
             --chat-panel: #101010;
         }
@@ -34,71 +34,89 @@
         }
 
         body {
-            background: linear-gradient(135deg, var(--bg-1), var(--bg-2), var(--bg-3));
+            background:
+                linear-gradient(135deg, var(--bg-1), var(--bg-2), var(--bg-3)),
+                url("fundo-pc.jpg") no-repeat center center fixed;
+            background-size: cover;
             color: white;
             overflow-x: hidden;
             min-height: 100vh;
         }
 
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            background:
+                radial-gradient(circle at top left, rgba(0,229,255,0.10), transparent 32%),
+                radial-gradient(circle at bottom right, rgba(0,229,255,0.08), transparent 28%);
+            pointer-events: none;
+            z-index: -1;
+        }
+
         header {
             text-align: center;
-            padding: 70px 20px 40px;
+            padding: 72px 20px 42px;
             max-width: 1100px;
             margin: auto;
         }
 
         header h1 {
-            font-size: 46px;
+            font-size: 52px;
             margin-bottom: 10px;
+            text-shadow: 0 2px 8px rgba(0,0,0,0.18);
         }
 
         header p {
-            font-size: 18px;
+            font-size: 19px;
             color: var(--text-soft);
-            margin-bottom: 18px;
+            margin-bottom: 20px;
         }
 
         .links {
             display: flex;
             justify-content: center;
             flex-wrap: wrap;
-            gap: 10px;
+            gap: 12px;
         }
 
         .links a {
             text-decoration: none;
-            color: #081217;
+            color: #071116;
             background: var(--primary);
-            padding: 10px 16px;
+            padding: 10px 18px;
             border-radius: 999px;
             font-weight: bold;
-            transition: transform 0.2s ease, opacity 0.2s ease;
+            transition: transform 0.2s ease, opacity 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 6px 18px rgba(0, 229, 255, 0.15);
         }
 
         .links a:hover {
             transform: translateY(-2px);
-            opacity: 0.92;
+            opacity: 0.94;
+            box-shadow: 0 8px 22px rgba(0, 229, 255, 0.22);
         }
 
         section {
             max-width: 1100px;
             margin: auto;
-            padding: 50px 20px;
+            padding: 52px 20px;
         }
 
         h2 {
-            margin-bottom: 20px;
+            margin-bottom: 22px;
             border-left: 4px solid var(--primary);
-            padding-left: 10px;
+            padding-left: 12px;
+            font-size: 18px;
         }
 
         .card {
             background: var(--card);
             border: 1px solid var(--card-border);
-            padding: 22px;
+            padding: 24px;
             border-radius: 16px;
             margin-bottom: 20px;
-            backdrop-filter: blur(6px);
+            backdrop-filter: blur(8px);
             box-shadow: var(--shadow);
         }
 
@@ -111,11 +129,12 @@
         .stack span {
             display: inline-block;
             background: var(--primary);
-            color: black;
-            padding: 8px 12px;
+            color: #000;
+            padding: 8px 13px;
             border-radius: 999px;
             font-size: 14px;
             font-weight: bold;
+            box-shadow: 0 5px 14px rgba(0, 229, 255, 0.16);
         }
 
         .projects-grid,
@@ -133,43 +152,46 @@
         }
 
         .kpi-card {
-            background: rgba(255, 255, 255, 0.08);
+            background: var(--card);
             color: white;
-            padding: 24px 20px;
+            padding: 26px 20px;
             border-radius: 16px;
             text-align: center;
             border: 1px solid var(--card-border);
             box-shadow: var(--shadow);
             transition: transform 0.2s ease, box-shadow 0.2s ease;
+            backdrop-filter: blur(8px);
         }
 
         .kpi-card:hover {
             transform: translateY(-4px);
-            box-shadow: 0 12px 30px rgba(0, 229, 255, 0.12);
+            box-shadow: 0 14px 34px rgba(0, 229, 255, 0.12);
         }
 
         .kpi-label {
             font-size: 15px;
-            margin-bottom: 8px;
+            margin-bottom: 10px;
             color: var(--text-soft);
         }
 
         .kpi-value {
-            font-size: 32px;
+            font-size: 34px;
             font-weight: bold;
             color: var(--primary);
         }
 
         footer {
             text-align: center;
-            padding: 30px 20px 120px;
-            color: #bbb;
+            padding: 34px 20px 120px;
+            color: #d1d1d1;
+            font-size: 14px;
         }
 
         .fade {
             opacity: 0;
-            transform: translateY(40px);
-            transition: opacity 0.8s ease, transform 0.8s ease;
+            transform: translateY(45px);
+            transition: opacity 0.9s ease, transform 0.9s ease;
+            will-change: opacity, transform;
         }
 
         .fade.show {
@@ -177,27 +199,40 @@
             transform: translateY(0);
         }
 
-        /* botão do chatbot */
         .chatbot-toggle {
             position: fixed;
-            bottom: 110px;
+            bottom: 108px;
             right: 24px;
-            width: 68px;
-            height: 68px;
+            width: 74px;
+            height: 74px;
             border-radius: 50%;
             border: none;
             cursor: pointer;
-            background: var(--primary);
-            color: #000;
-            font-size: 28px;
-            font-weight: bold;
+            background: transparent;
+            padding: 0;
+            overflow: hidden;
             box-shadow: 0 10px 24px rgba(0,0,0,0.35);
             z-index: 9998;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .chatbot-toggle:hover {
+            transform: translateY(-3px) scale(1.03);
+            box-shadow: 0 14px 28px rgba(0,0,0,0.42);
+        }
+
+        .chatbot-toggle img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 50%;
+            display: block;
+            border: 2px solid rgba(255,255,255,0.16);
         }
 
         .chatbot-label {
             position: fixed;
-            bottom: 78px;
+            bottom: 74px;
             right: 18px;
             background: rgba(0,0,0,0.68);
             color: #fff;
@@ -207,13 +242,12 @@
             z-index: 9998;
         }
 
-        /* janela do chatbot */
         .chatbot-window {
             position: fixed;
             bottom: 155px;
             right: 24px;
-            width: 360px;
-            height: 460px;
+            width: 370px;
+            height: 470px;
             background: var(--chat-bg);
             border-radius: 16px;
             display: none;
@@ -241,23 +275,28 @@
         }
 
         .chatbot-avatar {
-            width: 34px;
-            height: 34px;
+            width: 36px;
+            height: 36px;
             border-radius: 50%;
+            overflow: hidden;
             background: #081217;
-            color: var(--primary);
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 18px;
-            font-weight: bold;
+        }
+
+        .chatbot-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
         }
 
         .chatbot-close {
             background: transparent;
             border: none;
             color: #000;
-            font-size: 20px;
+            font-size: 22px;
             cursor: pointer;
             font-weight: bold;
         }
@@ -327,8 +366,12 @@
         }
 
         @media (max-width: 768px) {
+            header {
+                padding-top: 56px;
+            }
+
             header h1 {
-                font-size: 34px;
+                font-size: 36px;
             }
 
             header p {
@@ -344,13 +387,13 @@
             .chatbot-window {
                 width: calc(100% - 20px);
                 right: 10px;
-                bottom: 90px;
+                bottom: 92px;
                 height: 420px;
             }
 
             .chatbot-toggle {
-                width: 60px;
-                height: 60px;
+                width: 62px;
+                height: 62px;
                 right: 14px;
                 bottom: 20px;
             }
@@ -361,7 +404,7 @@
             }
 
             footer {
-                padding-bottom: 100px;
+                padding-bottom: 96px;
             }
         }
     </style>
@@ -466,13 +509,18 @@
         © 2026 Alexandre Drummond Rizzato · Contato: aledrizzato@gmail.com
     </footer>
 
-    <button class="chatbot-toggle" id="chatbotToggle" type="button" aria-label="Abrir chatbot">💬</button>
+    <button class="chatbot-toggle" id="chatbotToggle" type="button" aria-label="Abrir chatbot">
+        <img src="avatar-bot.png" alt="Assistente virtual">
+    </button>
+
     <div class="chatbot-label">Vamos conversar</div>
 
     <div class="chatbot-window" id="chatbot">
         <div class="chatbot-header">
             <div class="title">
-                <div class="chatbot-avatar">🤖</div>
+                <div class="chatbot-avatar">
+                    <img src="avatar-bot.png" alt="Assistente virtual">
+                </div>
                 <span>Assistente Virtual</span>
             </div>
             <button class="chatbot-close" type="button" id="chatbotClose" aria-label="Fechar chatbot">×</button>
@@ -505,7 +553,9 @@
         function showOnScroll() {
             elements.forEach(el => {
                 const top = el.getBoundingClientRect().top;
-                if (top < window.innerHeight - 50) {
+                const trigger = window.innerHeight * 0.88;
+
+                if (top < trigger) {
                     el.classList.add("show");
                 }
             });
@@ -540,10 +590,10 @@
             input.value = "";
             input.focus();
 
-            let loadingRef = document.createElement("div");
-            loadingRef.className = "system-message";
-            loadingRef.textContent = "Conectando...";
-            messages.appendChild(loadingRef);
+            const loading = document.createElement("div");
+            loading.className = "system-message";
+            loading.textContent = "Conectando...";
+            messages.appendChild(loading);
             messages.scrollTop = messages.scrollHeight;
 
             try {
@@ -559,7 +609,7 @@
                     })
                 });
 
-                loadingRef.remove();
+                loading.remove();
 
                 if (!response.ok) {
                     throw new Error("HTTP " + response.status);
@@ -574,7 +624,7 @@
 
                 appendMessage("bot-message", "Bot: " + resposta);
             } catch (error) {
-                loadingRef.remove();
+                loading.remove();
                 appendMessage("bot-message", "Erro: não consegui conectar 😢");
                 console.error("Erro no chat:", error);
             }
