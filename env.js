@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-06 08:19:18
-window.BACKEND_URL = 'https://annual-politicians-tropical-government.trycloudflare.com'
+// Gerado automaticamente em 2026-04-07 08:32:13
+window.BACKEND_URL = 'https://coordination-accomplish-expenditure-seller.trycloudflare.com'
