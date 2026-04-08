@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-07 08:32:13
-window.BACKEND_URL = 'https://coordination-accomplish-expenditure-seller.trycloudflare.com'
+// Gerado automaticamente em 2026-04-08 08:40:47
+window.BACKEND_URL = 'https://neon-bonus-via-scene.trycloudflare.com'
