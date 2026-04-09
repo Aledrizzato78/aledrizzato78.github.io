@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-08 08:40:47
-window.BACKEND_URL = 'https://neon-bonus-via-scene.trycloudflare.com'
+// Gerado automaticamente em 2026-04-09 08:24:43
+window.BACKEND_URL = 'https://accepted-somebody-sapphire-enhance.trycloudflare.com'
