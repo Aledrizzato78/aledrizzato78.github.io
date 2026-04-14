@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-13 08:19:00
-window.BACKEND_URL = 'https://molecular-cove-rooms-cameron.trycloudflare.com'
+// Gerado automaticamente em 2026-04-14 08:14:28
+window.BACKEND_URL = 'https://lifestyle-them-lady-emphasis.trycloudflare.com'
