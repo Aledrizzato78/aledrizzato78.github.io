@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-14 08:14:28
-window.BACKEND_URL = 'https://lifestyle-them-lady-emphasis.trycloudflare.com'
+// Gerado automaticamente em 2026-04-15 07:59:53
+window.BACKEND_URL = 'https://voters-strongly-tokyo-first.trycloudflare.com'
