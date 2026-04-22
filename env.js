@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-22 15:25:47
-window.BACKEND_URL = 'https://expect-mice-attractions-mod.trycloudflare.com'
+// Gerado automaticamente em 2026-04-22 16:19:43
+window.BACKEND_URL = 'https://superintendent-periodic-silly-collection.trycloudflare.com'
