@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-24 09:07:19
-window.BACKEND_URL = 'https://worldcat-paul-ships-furnished.trycloudflare.com'
+// Gerado automaticamente em 2026-04-27 09:02:34
+window.BACKEND_URL = 'https://issue-shops-closer-sub.trycloudflare.com'
