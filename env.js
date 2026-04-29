@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-27 14:57:45
-window.BACKEND_URL = 'https://producers-livestock-considerable-horn.trycloudflare.com'
+// Gerado automaticamente em 2026-04-29 07:40:39
+window.BACKEND_URL = 'https://totally-memphis-joined-four.trycloudflare.com'
