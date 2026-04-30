@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-04-29 07:40:39
-window.BACKEND_URL = 'https://totally-memphis-joined-four.trycloudflare.com'
+// Gerado automaticamente em 2026-04-30 06:17:34
+window.BACKEND_URL = 'https://cheap-enlarge-encoding-examine.trycloudflare.com'
