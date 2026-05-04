@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-04 09:28:00
-window.BACKEND_URL = 'https://numbers-candidates-attempting-jaguar.trycloudflare.com'
+// Gerado automaticamente em 2026-05-04 10:23:49
+window.BACKEND_URL = 'https://asset-beaver-buildings-video.trycloudflare.com'
