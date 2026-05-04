@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-04 10:28:40
-window.BACKEND_URL = 'https://pot-authorization-please-grain.trycloudflare.com'
+// Gerado automaticamente em 2026-05-04 10:29:39
+window.BACKEND_URL = 'https://complicated-initiated-rapidly-budapest.trycloudflare.com'
