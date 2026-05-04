@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-04 10:31:57
-window.BACKEND_URL = 'https://das-techno-respectively-ear.trycloudflare.com'
+// Gerado automaticamente em 2026-05-04 10:36:11
+window.BACKEND_URL = 'https://manor-sequence-rubber-philosophy.trycloudflare.com'
