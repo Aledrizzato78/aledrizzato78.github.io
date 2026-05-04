@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-04 10:23:49
-window.BACKEND_URL = 'https://asset-beaver-buildings-video.trycloudflare.com'
+// Gerado automaticamente em 2026-05-04 10:28:40
+window.BACKEND_URL = 'https://pot-authorization-please-grain.trycloudflare.com'
