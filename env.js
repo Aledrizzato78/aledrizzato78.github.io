@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-06 06:37:36
-window.BACKEND_URL = 'https://designers-federation-pst-instruments.trycloudflare.com'
+// Gerado automaticamente em 2026-05-06 10:35:08
+window.BACKEND_URL = 'https://baby-rating-davis-jump.trycloudflare.com'
