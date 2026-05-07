@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-07 08:25:59
-window.BACKEND_URL = 'https://redeem-comparing-any-all.trycloudflare.com'
+// Gerado automaticamente em 2026-05-07 11:17:13
+window.BACKEND_URL = 'https://hostels-cod-sections-pending.trycloudflare.com'
