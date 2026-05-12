@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-11 08:24:52
-window.BACKEND_URL = 'https://topic-determine-defines-designed.trycloudflare.com'
+// Gerado automaticamente em 2026-05-12 07:58:06
+window.BACKEND_URL = 'https://door-instruments-sum-comm.trycloudflare.com'
