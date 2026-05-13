@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-12 07:58:06
-window.BACKEND_URL = 'https://door-instruments-sum-comm.trycloudflare.com'
+// Gerado automaticamente em 2026-05-13 07:54:43
+window.BACKEND_URL = 'https://sci-donald-paris-explained.trycloudflare.com'
