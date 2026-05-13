@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-13 07:54:43
-window.BACKEND_URL = 'https://sci-donald-paris-explained.trycloudflare.com'
+// Gerado automaticamente em 2026-05-13 09:20:56
+window.BACKEND_URL = 'https://bryant-limits-formerly-knitting.trycloudflare.com'
