@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-13 09:20:56
-window.BACKEND_URL = 'https://bryant-limits-formerly-knitting.trycloudflare.com'
+// Gerado automaticamente em 2026-05-14 08:31:40
+window.BACKEND_URL = 'https://whenever-roles-consultation-valentine.trycloudflare.com'
