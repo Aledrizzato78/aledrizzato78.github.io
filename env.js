@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-19 08:17:42
-window.BACKEND_URL = 'https://sic-arising-ross-issue.trycloudflare.com'
+// Gerado automaticamente em 2026-05-19 08:55:13
+window.BACKEND_URL = 'https://pro-mounting-allows-henry.trycloudflare.com'
