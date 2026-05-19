@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-18 08:14:36
-window.BACKEND_URL = 'https://ongoing-costumes-lil-specialist.trycloudflare.com'
+// Gerado automaticamente em 2026-05-19 08:17:42
+window.BACKEND_URL = 'https://sic-arising-ross-issue.trycloudflare.com'
