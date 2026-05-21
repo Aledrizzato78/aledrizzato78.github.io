@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-20 07:55:16
-window.BACKEND_URL = 'https://either-scoring-packard-housing.trycloudflare.com'
+// Gerado automaticamente em 2026-05-21 08:33:25
+window.BACKEND_URL = 'https://responded-alignment-additional-subsequent.trycloudflare.com'
