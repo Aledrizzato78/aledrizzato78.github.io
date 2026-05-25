@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-25 08:57:44
-window.BACKEND_URL = 'https://cottages-cement-participated-represented.trycloudflare.com'
+// Gerado automaticamente em 2026-05-25 09:10:42
+window.BACKEND_URL = 'https://shell-category-mpeg-theater.trycloudflare.com'
