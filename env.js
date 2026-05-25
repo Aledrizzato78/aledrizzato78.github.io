@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-25 09:10:42
-window.BACKEND_URL = 'https://shell-category-mpeg-theater.trycloudflare.com'
+// Gerado automaticamente em 2026-05-25 09:21:53
+window.BACKEND_URL = 'https://hero-raid-mobiles-author.trycloudflare.com'
