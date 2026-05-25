@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-21 08:33:25
-window.BACKEND_URL = 'https://responded-alignment-additional-subsequent.trycloudflare.com'
+// Gerado automaticamente em 2026-05-25 08:03:14
+window.BACKEND_URL = 'https://stripes-crop-mission-chester.trycloudflare.com'
