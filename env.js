@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-25 09:32:04
-window.BACKEND_URL = 'https://designer-any-calculators-bids.trycloudflare.com'
+// Gerado automaticamente em 2026-05-25 09:36:46
+window.BACKEND_URL = 'https://frequencies-uri-excellence-burst.trycloudflare.com'
