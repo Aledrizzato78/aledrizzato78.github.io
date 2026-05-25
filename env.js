@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-25 09:36:46
-window.BACKEND_URL = 'https://frequencies-uri-excellence-burst.trycloudflare.com'
+// Gerado automaticamente em 2026-05-25 09:41:15
+window.BACKEND_URL = 'https://grammar-ranging-pair-minimize.trycloudflare.com'
