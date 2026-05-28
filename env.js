@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-05-27 09:19:14
-window.BACKEND_URL = 'https://substances-negotiation-britannica-democratic.trycloudflare.com'
+// Gerado automaticamente em 2026-05-28 08:11:52
+window.BACKEND_URL = 'https://prepared-implementation-associates-employ.trycloudflare.com'
