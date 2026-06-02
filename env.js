@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-01 06:23:53
-window.BACKEND_URL = 'https://agents-high-inf-bias.trycloudflare.com'
+// Gerado automaticamente em 2026-06-02 08:13:58
+window.BACKEND_URL = 'https://mat-barn-doe-upload.trycloudflare.com'
