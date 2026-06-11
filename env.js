@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-10 07:56:18
-window.BACKEND_URL = 'https://roof-las-his-unfortunately.trycloudflare.com'
+// Gerado automaticamente em 2026-06-11 04:47:38
+window.BACKEND_URL = 'https://newark-speak-causing-departure.trycloudflare.com'
