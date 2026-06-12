@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-12 05:35:08
-window.BACKEND_URL = 'https://altered-distinct-arnold-morning.trycloudflare.com'
+// Gerado automaticamente em 2026-06-12 14:20:45
+window.BACKEND_URL = 'https://radar-sen-proprietary-moisture.trycloudflare.com'
