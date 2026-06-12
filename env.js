@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-11 04:47:38
-window.BACKEND_URL = 'https://newark-speak-causing-departure.trycloudflare.com'
+// Gerado automaticamente em 2026-06-12 05:35:08
+window.BACKEND_URL = 'https://altered-distinct-arnold-morning.trycloudflare.com'
