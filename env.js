@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-16 07:29:31
-window.BACKEND_URL = 'https://responsible-students-calculation-montgomery.trycloudflare.com'
+// Gerado automaticamente em 2026-06-17 09:04:28
+window.BACKEND_URL = 'https://hitting-crest-acrobat-places.trycloudflare.com'
