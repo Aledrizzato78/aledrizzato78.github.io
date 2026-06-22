@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-17 09:04:28
-window.BACKEND_URL = 'https://hitting-crest-acrobat-places.trycloudflare.com'
+// Gerado automaticamente em 2026-06-22 06:17:58
+window.BACKEND_URL = 'https://intersection-luis-theta-wondering.trycloudflare.com'
