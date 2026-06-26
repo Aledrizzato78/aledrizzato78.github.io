@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-25 07:01:04
-window.BACKEND_URL = 'https://tee-tension-seas-piece.trycloudflare.com'
+// Gerado automaticamente em 2026-06-26 07:31:45
+window.BACKEND_URL = 'https://catalog-takes-novelty-talks.trycloudflare.com'
