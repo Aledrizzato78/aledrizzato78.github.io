@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-29 06:12:09
-window.BACKEND_URL = 'https://bush-bottle-undertaken-psychological.trycloudflare.com'
+// Gerado automaticamente em 2026-06-29 06:15:46
+window.BACKEND_URL = 'https://fifth-depend-websites-cyber.trycloudflare.com'
