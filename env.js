@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-29 06:19:47
-window.BACKEND_URL = 'https://workstation-talent-guidelines-transmit.trycloudflare.com'
+// Gerado automaticamente em 2026-06-30 06:29:03
+window.BACKEND_URL = 'https://index-hansen-eligible-projectors.trycloudflare.com'
