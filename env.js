@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-06-30 06:29:03
-window.BACKEND_URL = 'https://index-hansen-eligible-projectors.trycloudflare.com'
+// Gerado automaticamente em 2026-07-01 06:11:22
+window.BACKEND_URL = 'https://arrivals-olympus-episodes-logs.trycloudflare.com'
