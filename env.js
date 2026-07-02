@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-01 06:11:22
-window.BACKEND_URL = 'https://arrivals-olympus-episodes-logs.trycloudflare.com'
+// Gerado automaticamente em 2026-07-02 05:44:26
+window.BACKEND_URL = 'https://foods-voice-forgotten-bracket.trycloudflare.com'
