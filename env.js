@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-06 06:11:00
-window.BACKEND_URL = 'https://bookmarks-ratios-planning-culture.trycloudflare.com'
+// Gerado automaticamente em 2026-07-06 06:52:45
+window.BACKEND_URL = 'https://definition-other-afterwards-artificial.trycloudflare.com'
