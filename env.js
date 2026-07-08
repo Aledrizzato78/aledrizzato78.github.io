@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-07 07:10:53
-window.BACKEND_URL = 'https://agents-allowed-spoken-interracial.trycloudflare.com'
+// Gerado automaticamente em 2026-07-08 08:12:23
+window.BACKEND_URL = 'https://universities-cellular-receiver-storm.trycloudflare.com'
