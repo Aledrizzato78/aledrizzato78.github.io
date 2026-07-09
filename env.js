@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-08 08:12:23
-window.BACKEND_URL = 'https://universities-cellular-receiver-storm.trycloudflare.com'
+// Gerado automaticamente em 2026-07-09 07:54:15
+window.BACKEND_URL = 'https://newman-modems-reservoir-amendments.trycloudflare.com'
