@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-09 07:54:15
-window.BACKEND_URL = 'https://newman-modems-reservoir-amendments.trycloudflare.com'
+// Gerado automaticamente em 2026-07-13 06:10:51
+window.BACKEND_URL = 'https://bidder-international-guidance-spine.trycloudflare.com'
