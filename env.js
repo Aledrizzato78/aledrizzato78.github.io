@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-13 06:10:51
-window.BACKEND_URL = 'https://bidder-international-guidance-spine.trycloudflare.com'
+// Gerado automaticamente em 2026-07-14 07:37:00
+window.BACKEND_URL = 'https://mattress-learners-revelation-mine.trycloudflare.com'
