@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-14 07:37:00
-window.BACKEND_URL = 'https://mattress-learners-revelation-mine.trycloudflare.com'
+// Gerado automaticamente em 2026-07-15 05:17:20
+window.BACKEND_URL = 'https://illustrations-somewhat-specially-berlin.trycloudflare.com'
