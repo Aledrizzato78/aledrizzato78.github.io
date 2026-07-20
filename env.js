@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-17 05:20:35
-window.BACKEND_URL = 'https://valves-marks-mono-msgid.trycloudflare.com'
+// Gerado automaticamente em 2026-07-20 06:36:25
+window.BACKEND_URL = 'https://gcc-problems-cambridge-exotic.trycloudflare.com'
