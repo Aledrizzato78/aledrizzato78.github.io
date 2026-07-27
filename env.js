@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-24 07:04:15
-window.BACKEND_URL = 'https://champions-locale-donna-finished.trycloudflare.com'
+// Gerado automaticamente em 2026-07-27 07:41:32
+window.BACKEND_URL = 'https://amount-editor-instrumental-mix.trycloudflare.com'
