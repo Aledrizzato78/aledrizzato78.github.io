@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-27 08:34:13
-window.BACKEND_URL = 'https://refresh-vids-flavor-correctly.trycloudflare.com'
+// Gerado automaticamente em 2026-07-27 08:37:47
+window.BACKEND_URL = 'https://list-william-cindy-earned.trycloudflare.com'
