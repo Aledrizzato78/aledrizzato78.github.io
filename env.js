@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-07-27 08:37:47
-window.BACKEND_URL = 'https://list-william-cindy-earned.trycloudflare.com'
+// Gerado automaticamente em 2026-07-28 07:24:33
+window.BACKEND_URL = 'https://hook-buzz-trainers-commerce.trycloudflare.com'
