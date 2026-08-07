@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-06 08:34:10
-window.BACKEND_URL = 'https://sauce-appears-locked-carolina.trycloudflare.com'
+// Gerado automaticamente em 2026-08-07 07:33:02
+window.BACKEND_URL = 'https://mechanical-opposition-asia-mambo.trycloudflare.com'
