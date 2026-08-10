@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-07 07:33:02
-window.BACKEND_URL = 'https://mechanical-opposition-asia-mambo.trycloudflare.com'
+// Gerado automaticamente em 2026-08-10 06:24:23
+window.BACKEND_URL = 'https://shared-edit-lending-workplace.trycloudflare.com'
