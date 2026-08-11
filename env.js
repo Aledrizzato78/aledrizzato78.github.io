@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-10 06:24:23
-window.BACKEND_URL = 'https://shared-edit-lending-workplace.trycloudflare.com'
+// Gerado automaticamente em 2026-08-11 06:28:40
+window.BACKEND_URL = 'https://consultancy-committee-medieval-hook.trycloudflare.com'
