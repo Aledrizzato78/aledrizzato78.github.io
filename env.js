@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-11 06:28:40
-window.BACKEND_URL = 'https://consultancy-committee-medieval-hook.trycloudflare.com'
+// Gerado automaticamente em 2026-08-12 06:37:42
+window.BACKEND_URL = 'https://teddy-cowboy-deck-rules.trycloudflare.com'
