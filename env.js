@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-12 06:37:42
-window.BACKEND_URL = 'https://teddy-cowboy-deck-rules.trycloudflare.com'
+// Gerado automaticamente em 2026-08-13 08:37:32
+window.BACKEND_URL = 'https://carb-cabin-affiliate-vintage.trycloudflare.com'
