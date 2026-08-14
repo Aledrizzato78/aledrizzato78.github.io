@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-13 08:37:32
-window.BACKEND_URL = 'https://carb-cabin-affiliate-vintage.trycloudflare.com'
+// Gerado automaticamente em 2026-08-14 08:31:36
+window.BACKEND_URL = 'https://voip-adipex-podcasts-inside.trycloudflare.com'
