@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-18 06:11:18
-window.BACKEND_URL = 'https://investors-drag-wan-receive.trycloudflare.com'
+// Gerado automaticamente em 2026-08-19 07:07:03
+window.BACKEND_URL = 'https://sep-thumb-supplied-clouds.trycloudflare.com'
