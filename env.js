@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-20 05:50:14
-window.BACKEND_URL = 'https://tigers-envelope-itself-sunny.trycloudflare.com'
+// Gerado automaticamente em 2026-08-21 05:50:42
+window.BACKEND_URL = 'https://sur-refers-adjacent-moral.trycloudflare.com'
