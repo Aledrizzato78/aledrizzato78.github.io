@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-21 05:50:42
-window.BACKEND_URL = 'https://sur-refers-adjacent-moral.trycloudflare.com'
+// Gerado automaticamente em 2026-08-24 06:42:06
+window.BACKEND_URL = 'https://lancaster-background-proceedings-distant.trycloudflare.com'
