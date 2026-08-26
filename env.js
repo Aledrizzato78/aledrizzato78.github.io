@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-25 06:32:17
-window.BACKEND_URL = 'https://tunes-tissue-cargo-subsequent.trycloudflare.com'
+// Gerado automaticamente em 2026-08-26 06:28:29
+window.BACKEND_URL = 'https://female-disclosure-wages-greetings.trycloudflare.com'
