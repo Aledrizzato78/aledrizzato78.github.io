@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-26 06:28:29
-window.BACKEND_URL = 'https://female-disclosure-wages-greetings.trycloudflare.com'
+// Gerado automaticamente em 2026-08-27 07:21:25
+window.BACKEND_URL = 'https://chronic-bought-attending-thinks.trycloudflare.com'
