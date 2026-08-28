@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-27 07:21:25
-window.BACKEND_URL = 'https://chronic-bought-attending-thinks.trycloudflare.com'
+// Gerado automaticamente em 2026-08-28 06:46:52
+window.BACKEND_URL = 'https://clarity-dietary-rpg-mouse.trycloudflare.com'
