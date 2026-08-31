@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-08-31 07:21:07
-window.BACKEND_URL = 'https://suite-exists-breath-oops.trycloudflare.com'
+// Gerado automaticamente em 2026-08-31 10:24:43
+window.BACKEND_URL = 'https://physical-dodge-streams-plug.trycloudflare.com'
