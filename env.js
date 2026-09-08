@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-09-04 05:34:15
-window.BACKEND_URL = 'https://dealer-highlighted-harold-makes.trycloudflare.com'
+// Gerado automaticamente em 2026-09-08 07:19:59
+window.BACKEND_URL = 'https://importance-approval-tribunal-norm.trycloudflare.com'
