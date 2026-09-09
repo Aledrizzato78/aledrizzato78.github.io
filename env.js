@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-09-08 07:19:59
-window.BACKEND_URL = 'https://importance-approval-tribunal-norm.trycloudflare.com'
+// Gerado automaticamente em 2026-09-09 08:33:13
+window.BACKEND_URL = 'https://regarding-fed-elderly-price.trycloudflare.com'
