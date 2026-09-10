@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-09-09 08:33:13
-window.BACKEND_URL = 'https://regarding-fed-elderly-price.trycloudflare.com'
+// Gerado automaticamente em 2026-09-10 06:22:39
+window.BACKEND_URL = 'https://snake-effective-distributions-divided.trycloudflare.com'
