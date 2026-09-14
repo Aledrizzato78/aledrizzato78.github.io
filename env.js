@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-09-11 08:55:47
-window.BACKEND_URL = 'https://fed-possible-eagles-enabling.trycloudflare.com'
+// Gerado automaticamente em 2026-09-14 07:15:36
+window.BACKEND_URL = 'https://guardian-remarks-generated-prove.trycloudflare.com'
