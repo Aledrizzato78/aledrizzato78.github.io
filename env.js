@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-09-15 05:28:13
-window.BACKEND_URL = 'https://embassy-interracial-corresponding-drove.trycloudflare.com'
+// Gerado automaticamente em 2026-09-16 07:00:05
+window.BACKEND_URL = 'https://claimed-orlando-sessions-thru.trycloudflare.com'
