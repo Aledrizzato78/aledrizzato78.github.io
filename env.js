@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-09-17 06:45:14
-window.BACKEND_URL = 'https://sense-graduate-beam-jewelry.trycloudflare.com'
+// Gerado automaticamente em 2026-09-18 06:49:38
+window.BACKEND_URL = 'https://possession-assumptions-significantly-packages.trycloudflare.com'
