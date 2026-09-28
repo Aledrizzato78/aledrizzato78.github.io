@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-09-25 08:29:48
-window.BACKEND_URL = 'https://answers-mix-nav-delivered.trycloudflare.com'
+// Gerado automaticamente em 2026-09-28 11:40:30
+window.BACKEND_URL = 'https://mounted-unexpected-excited-contrast.trycloudflare.com'
