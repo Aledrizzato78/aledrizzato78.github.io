@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-09-29 07:35:12
-window.BACKEND_URL = 'https://committed-alumni-finishing-dates.trycloudflare.com'
+// Gerado automaticamente em 2026-09-30 06:39:13
+window.BACKEND_URL = 'https://paintings-pontiac-margin-app.trycloudflare.com'
