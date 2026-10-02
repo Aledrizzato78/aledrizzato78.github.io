@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-10-02 16:11:27
-window.BACKEND_URL = 'https://boxes-raw-chambers-flower.trycloudflare.com'
+// Gerado automaticamente em 2026-10-02 16:18:03
+window.BACKEND_URL = 'https://multimedia-ordinance-vanilla-segments.trycloudflare.com'
