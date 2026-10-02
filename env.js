@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-10-01 08:56:16
-window.BACKEND_URL = 'https://earnings-aside-candle-attractions.trycloudflare.com'
+// Gerado automaticamente em 2026-10-02 08:28:30
+window.BACKEND_URL = 'https://likewise-flyer-hrs-possess.trycloudflare.com'
