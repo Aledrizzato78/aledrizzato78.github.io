@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-10-06 06:18:38
-window.BACKEND_URL = 'https://pushing-designation-airport-cleanup.trycloudflare.com'
+// Gerado automaticamente em 2026-10-07 07:12:31
+window.BACKEND_URL = 'https://net-jar-tumor-nuke.trycloudflare.com'
