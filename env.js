@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-10-07 07:12:31
-window.BACKEND_URL = 'https://net-jar-tumor-nuke.trycloudflare.com'
+// Gerado automaticamente em 2026-10-08 07:51:53
+window.BACKEND_URL = 'https://meyer-merchandise-large-administered.trycloudflare.com'
