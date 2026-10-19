@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-10-08 07:51:53
-window.BACKEND_URL = 'https://meyer-merchandise-large-administered.trycloudflare.com'
+// Gerado automaticamente em 2026-10-19 09:07:14
+window.BACKEND_URL = 'https://til-institutional-western-notifications.trycloudflare.com'
