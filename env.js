@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-10-23 06:33:02
-window.BACKEND_URL = 'https://dog-languages-mit-wiring.trycloudflare.com'
+// Gerado automaticamente em 2026-10-26 08:06:06
+window.BACKEND_URL = 'https://delivering-hiring-audio-workplace.trycloudflare.com'
