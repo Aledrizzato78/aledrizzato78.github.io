@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-10-30 07:38:32
-window.BACKEND_URL = 'https://shake-vegas-pairs-sisters.trycloudflare.com'
+// Gerado automaticamente em 2026-11-03 06:28:06
+window.BACKEND_URL = 'https://penguin-forwarding-opposition-changing.trycloudflare.com'
