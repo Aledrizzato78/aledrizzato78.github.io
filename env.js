@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-11-06 08:12:42
-window.BACKEND_URL = 'https://working-combine-laid-soccer.trycloudflare.com'
+// Gerado automaticamente em 2026-11-06 10:01:01
+window.BACKEND_URL = 'https://biology-latest-comfort-examining.trycloudflare.com'
