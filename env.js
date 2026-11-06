@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-11-05 07:01:59
-window.BACKEND_URL = 'https://shaped-custody-cork-wages.trycloudflare.com'
+// Gerado automaticamente em 2026-11-06 08:12:42
+window.BACKEND_URL = 'https://working-combine-laid-soccer.trycloudflare.com'
