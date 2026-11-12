@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-11-11 06:50:07
-window.BACKEND_URL = 'https://televisions-last-chancellor-thinkpad.trycloudflare.com'
+// Gerado automaticamente em 2026-11-12 05:34:59
+window.BACKEND_URL = 'https://along-shadows-cosmetics-levitra.trycloudflare.com'
