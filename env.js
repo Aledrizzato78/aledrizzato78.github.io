@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-11-18 06:03:29
-window.BACKEND_URL = 'https://portraits-authentic-alice-temperatures.trycloudflare.com'
+// Gerado automaticamente em 2026-11-19 06:18:11
+window.BACKEND_URL = 'https://hon-resolutions-doctors-designation.trycloudflare.com'
