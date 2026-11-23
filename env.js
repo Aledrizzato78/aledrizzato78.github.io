@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-11-19 06:18:11
-window.BACKEND_URL = 'https://hon-resolutions-doctors-designation.trycloudflare.com'
+// Gerado automaticamente em 2026-11-23 07:52:56
+window.BACKEND_URL = 'https://recognized-described-experiment-jewellery.trycloudflare.com'
