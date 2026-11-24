@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-11-23 07:52:56
-window.BACKEND_URL = 'https://recognized-described-experiment-jewellery.trycloudflare.com'
+// Gerado automaticamente em 2026-11-24 06:25:47
+window.BACKEND_URL = 'https://caution-officer-verbal-diesel.trycloudflare.com'
