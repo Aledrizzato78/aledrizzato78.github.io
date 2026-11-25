@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-11-24 06:25:47
-window.BACKEND_URL = 'https://caution-officer-verbal-diesel.trycloudflare.com'
+// Gerado automaticamente em 2026-11-25 06:17:17
+window.BACKEND_URL = 'https://deposit-care-asking-egg.trycloudflare.com'
