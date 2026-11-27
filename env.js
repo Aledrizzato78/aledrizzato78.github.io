@@ -1,2 +1,2 @@
-// Gerado automaticamente em 2026-11-26 06:38:17
-window.BACKEND_URL = 'https://prayers-joseph-alice-toward.trycloudflare.com'
+// Gerado automaticamente em 2026-11-27 06:49:02
+window.BACKEND_URL = 'https://gathering-cables-batch-nicole.trycloudflare.com'
